@@ -11,3 +11,8 @@ Python, PIL, pyautogui, cv2
 ```bash
 pip install -r requirements.txt
 python main.py
+```
+
+- navigat to [the dinosaur game](https://elgoog.im/dinosaur-game/)
+- press "1" to start the bot
+- press "q" to deactivat the bot
